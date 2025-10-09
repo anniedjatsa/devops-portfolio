@@ -1,0 +1,53 @@
+# Secrets - NEVER commit these
+**/secrets/
+**/credentials/
+**/*.pem
+**/*.key
+**/*.crt
+*.env
+.env.*
+kubeconfig
+*.tfvars
+terraform.tfstate*
+
+# IDE and Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Dependencies
+node_modules/
+venv/
+__pycache__/
+
+# Logs
+*.log
+logs/
+
+# Temporary
+tmp/
+temp/
+*.tmp
+
+# Build Artifacts
+target/
+dist/
+build/
+*.jar
+*.war
+
+# Helm
+charts/*/charts/
+*.tgz
+
+# Terraform
+.terraform/
+.terraform.lock.hcl
+crash.log
