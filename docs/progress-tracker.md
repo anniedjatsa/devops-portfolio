@@ -33,4 +33,24 @@
 - Working with unprivileged container images
 
 
----
+**Additional Achievements:**
+- ✅ Created first production Helm chart
+- ✅ Deployed application using Helm (not raw YAML!)
+- ✅ Configured OpenShift Route in Helm template
+- ✅ Tested Helm upgrade and rollback features
+- ✅ Demonstrated Infrastructure as Code with Helm
+
+**Helm Chart Features:**
+- Templated deployments for multiple environments
+- Configurable replica counts
+- OpenShift-specific resources (Routes)
+- Security best practices baked in
+- Version-controlled releases
+
+**Commands Mastered:**
+```bash
+helm create, lint, install, upgrade, rollback, list, history
+oc scale, get, describe, logs
+Deployments: 2 (manual + Helm)
+Skills: OpenShift, Kubernetes, Helm, GitOps foundations
+
