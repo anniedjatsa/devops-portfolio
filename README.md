@@ -81,7 +81,7 @@ This portfolio is continuously updated as I expand my DevOps expertise. Each pro
 
 - **LinkedIn:** [linkedin.com/in/annie-djatsa](https://www.linkedin.com/in/annie-djatsa)
 - **Email:** anniedjatsa1@gmail.com
-- **GitHub:** [@anniedjatsa1](https://github.com/anniedjatsa1)
+- **GitHub:** [@anniedjatsa](https://github.com/anniedjatsa1)
 
 ---
 
